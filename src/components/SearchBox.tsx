@@ -64,7 +64,7 @@ const SearchBox: React.FC<SearchBoxProps> = ({ onSelectDestination }) => {
         backgroundColor: 'grey.200',
       }}
     >
-      <Typography variant="h6" component="h1" mb={2}>Locations App</Typography>
+      <Typography variant="h6" component="h1" mb={2}>Travel Destinations App</Typography>
       <Autocomplete
         freeSolo
         disablePortal
